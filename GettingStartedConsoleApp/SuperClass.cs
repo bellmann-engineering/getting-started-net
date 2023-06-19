@@ -8,5 +8,6 @@ namespace GettingStartedConsoleApp
 {
     internal class SuperClass
     {
+        public SuperClass() { }
     }
 }
