@@ -5,12 +5,11 @@ for (int i = 0; i < 10; i++)
     Console.WriteLine("Hello");
 }
 
-Console.WriteLine("Goodbye!");
 
 Console.ReadLine();
 
 for (int i = 0; i < 1000; i++)
 {
     Console.WriteLine("...");
-    Console.WriteLine("##");
+   
 }

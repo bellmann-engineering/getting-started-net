@@ -9,5 +9,7 @@ namespace GettingStartedConsoleApp
     internal class SuperClass
     {
         public SuperClass() { }
+
+        public int MyProperty { get; set; } 
     }
 }
